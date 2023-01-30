@@ -1,0 +1,24 @@
+
+
+
+.theme_header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    padding: 0 20px;
+}
+
+.button_container{
+    background-color: green;
+    width: 400px;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    margin-bottom: 25px;
+    margin-top: 30px;
+
+}
